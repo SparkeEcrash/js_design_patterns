@@ -1,0 +1,16 @@
+.circle {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+}
+
+.square {
+	height: 50px;
+	width: 50px;
+	position: absolute;
+}
+
+.canvas {
+	position: absolute;
+}
